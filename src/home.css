@@ -1,0 +1,106 @@
+
+.body [src="./img/phon.png"]{
+    width: 18em;
+}
+nav footer ul .a-home{
+   background-color:  rgb(255, 116, 97);
+   border-top:.3px solid transparent;
+   border-bottom:.3px solid transparent;
+   /* opacity: 1; */
+   border-radius:0px !important ;
+   /* color: white; */
+
+}
+section.sec2{
+    background-color:rgb(255, 116, 97) ;
+    width: 80%;
+    margin: auto;
+    display: flex;
+    padding-top: 25px;
+    padding-right: 25px;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    height: 350px;
+    font-size: 30px;
+}
+.img img{
+   /* width: 18em; */
+   height: 100%;
+}
+.img{
+   padding-left: 40px;
+   height: 80%;
+}
+.body{
+    background-color:rgb(255, 116, 97) ;
+    width:100%;
+    color: rgb(236, 236, 231)!important;
+    /* height: 450px; */
+ }
+ article.hint , div.bold {
+    border-radius: 10px;
+    margin-bottom: 10px;
+ }
+ .card [src="./img/graph ico.png"]{
+    width: 30px;
+ }
+ .card {
+    background-color: white ;
+    border: 10px;
+    /* padding: 10px; */
+    margin: 10px;
+    display: flex;
+    border-radius: 6px;
+ }
+
+ .card i {
+    font-size: 30px;
+    /* margin-top: 1px !important; */
+    /* margin-left: 3px; */
+    padding-right: 15px;
+    padding-left: 3px;
+    padding-top: 3px;
+ }
+ .side1 article , .side2 article{
+    padding-top: 7px;
+ }
+.sec3{
+   padding: 50px 70px;
+    background-color:rgb(236, 236, 231); 
+    color: rgb(41, 41, 41);
+    /* display: flex; */
+ }
+ figure{
+    width: 70%;
+    margin: auto;
+    display: flex;
+    /* flex-direction: column; */
+ }
+ /* .sec2 button{
+   background-color: rgb(82, 89, 97);
+   border: none;
+   color: rgb(201, 201, 201);
+   padding: 10px;
+   border-radius: 6px;
+   margin-top: 40px;
+   cursor: pointer;
+ } */
+ nav footer ul .a-home:hover{
+   color: rgb(236, 236, 231);
+ }
+ /* .sec2 button:hover{
+   background-color: rgb(55, 59, 68);
+   transform: scale(1.08);
+ } */
+ /* .img img:hover{
+   transform: scale(1.08);
+ } */
+ /* .card:hover{
+    transform: scale(1.08);
+ } */
+
+
+
+/* some class to help me  */
+
+

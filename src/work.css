@@ -1,0 +1,41 @@
+nav footer ul .a-work{
+    background-color:  rgb(255, 116, 97);
+ }
+nav footer ul .a-work:hover{
+    color: rgb(236, 236, 231);
+  }
+  row-palette {
+    display: flex;
+    width: 89%;
+    margin: auto;
+    text-align: center;
+
+  }
+
+  work-main{
+    align-items: center;
+  /* margin: auto; */
+  }
+  palette-card{
+    margin: auto;
+    /* margin: 10px 20px; */
+  }
+  palette-card i {
+    background-color: rgb(245, 245, 245);
+    font-size: 120px;
+    padding:22% 25% ;
+    margin-bottom: 10px;
+    /* margin: 15px 30px; */
+    color: rgb(112, 112, 112);
+  }
+  palette-card p
+  {
+    padding:3% 20% ;
+    color: rgb(112, 112, 112);
+
+  }
+  palette-card p.hint
+  {
+    padding:.5% 20% !important;
+
+  }

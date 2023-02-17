@@ -1,0 +1,51 @@
+nav footer ul .a-features{
+    background-color:  rgb(255, 116, 97);
+ }
+nav footer ul .a-features:hover{
+    color: rgb(236, 236, 231);
+  }
+  
+  main{
+    display:flex;
+    flex-direction: row;
+    justify-content:space-around;
+  }
+  main cards-fea {
+    display: flex;
+    margin-top: 40px;
+    margin-left: 40px;
+    text-align: center;
+
+  }
+  .text
+  {
+width: 35%;
+  }
+  main cards-fea span.num{
+    font-size: 40px;
+  }
+  main cards-fea .secnd{
+    color: red;
+    border: .2px solid rgb(187, 185, 185);
+    margin: 0 10px;
+    background-color: rgb(243, 243, 243);
+  }
+  main cards-fea p {
+    padding: 10px 60px;
+    border: .2px solid rgb(187, 185, 185);
+    margin: 0 10px;
+  }
+  main cards-fea [type="button"]{
+    padding: 10px 75px;
+    /* padding-left: 90px; */
+    margin:0 10px;
+    background-color: rgba(55, 59, 68, 0.801);
+    color: white;
+    border:.2px solid rgb(187, 185, 185);
+  /* width: 140px; */
+  }
+  main cards-fea [type="button"]:hover {
+    background-color: rgb(55, 59, 68);
+    color: white;
+    transform: scale(1.045);
+  }

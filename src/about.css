@@ -1,0 +1,53 @@
+nav footer ul .a-about{
+    background-color:  rgb(255, 116, 97);
+ }
+
+ about-body{
+  padding-top: 15px;
+  padding-bottom: 15px;
+ }
+ 
+ 
+ /* search-items i {
+ background-color: rgb(255, 116, 97);
+ border: 1px solid rgb(116, 103, 101);
+ font-size: 28px;
+} */
+ search-items input{
+  /* display: inline-block; */
+  background-color: rgb(255, 116, 97);
+padding-top: 11.5px;
+padding-right: 100px;
+border: 1px solid rgb(116, 103, 101);
+
+ }
+ card-persons {
+  display: flex;
+  width: 85%;
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  text-align: center;
+ }
+ card-persons i {
+  font-size: 65px;
+  padding: 50px;
+  color: rgb(112, 112, 112);
+  background-color: rgb(245, 245, 245);
+ }
+ card-persons p{
+  padding:5px ;
+  /* font-size: 15px; */
+ }
+ card-persons job-title{
+  padding: 5px;
+ }
+ card-team i:hover ,  card-team p:hover {
+  color: rgb(39, 39, 39);
+ }
+nav footer ul .a-about:hover{
+    color: rgb(236, 236, 231);
+  }
+  card-persons i:hover{
+    transform: scale(1.08);
+  }
